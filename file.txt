@@ -1,4 +1,1 @@
-Hello World This Is Me, Eric!
-I Am A Tech Wiz!
-Bye!
-This is added from the local repository.
+my updated file.txt
