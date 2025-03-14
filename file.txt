@@ -1,3 +1,7 @@
 my updated file.txt
 added one line to this file
+<<<<<<< HEAD
 hello night 
+=======
+Hello World
+>>>>>>> new
